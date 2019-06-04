@@ -1,1 +1,2 @@
-# snakejs<br/> a simple javascript version of snake
+# snakejs
+a simple javascript version of snake
