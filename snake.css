@@ -1,9 +1,16 @@
-* {
+html, body {
   margin: 0;
   box-sizing: border-box;
+  background-color:rgb(75,0,130);
 }
+
 canvas {
 
   width : 80vmin;
   border : 10px solid cornflowerblue;
+}
+
+.game_zone {
+  margin: 0 auto;
+  width: 80vmin;
 }
