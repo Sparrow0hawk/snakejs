@@ -54,13 +54,13 @@ function drawBackground() {
 
 function drawGameOver() {
 
-  //ctx.fillRect(0, 0, 250, 250);
+  ctx.fillStyle = 'black';
 
-  //ctx.fillStyle = 'black';
+  ctx.fillRect(0, 0, 250, 250);
 
   //moving filltext to here works
 
-  ctx.font = "10px Arial";
+  ctx.font = "20px Arial";
 
   ctx.fillStyle = 'red';
 
